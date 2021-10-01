@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU1}{otherstuff.html}
+== Rihab Abdul Razak \/ Other stuff
+
+= Codes 
+~~~
+{Bounded voronoi partitions}
+[https://www.mathworks.com/matlabcentral/fileexchange/70473-compute_voronoi compute_voronoi.m]\n 
+Matlab code for computing voronoi partitions of the sites within a bounded polygon.
+~~~
+
+~~~
+{Controller for mobile robots}
+[https://github.com/tarihab/turtlebotcommander turtlebotcommander]\n 
+ROS Controller software for turtlebot burger robots implementing adaptive coverage control algorithm. 
+The code interfaces with Optitrack motion sensor system through VRPN interface.\n
+[https://github.com/tarihab/rgbsensor rgbsensor]\n 
+ROS node which interfaces with TCS34725 RGB light sensor.
+~~~
+
+= Experiment Videos
+~~~
+{Multi-robot Coverage control with light sensors}
+[https://www.youtube.com/watch?v=FcKwouqAkxM Locational Optimization]\n
+[https://www.youtube.com/watch?v=FcKwouqAkxM $\mathcal{L}^2$ Optimization]\n
+For more details, see [https://bridges.monash.edu/articles/thesis/Distributed_Adaptive_Control_of_Mobile_Sensor_Networks_Coverage_and_Estimation_Algorithms/12052407 thesis].
+~~~

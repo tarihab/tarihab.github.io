@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU1}{publications.html}
+== Rihab Abdul Razak \/ Publications
+
+= Journal papers \/ Preprints
+. Rihab Abdul Razak, Sukumar Srikant, Hoam Chung, /Distributed Adaptive Coverage Control of Differential Drive Robotic Sensors/, [http://arxiv.org/abs/1908.01161 *arxiv preprint*], Aug 2019.
+. Rihab Abdul Razak, Sukumar Srikant, Hoam Chung, /Scalar Field Estimation with Mobile Sensor Networks/, *International Journal of Robust and Nonlinear Control*, Vol.31, 4287-4305, 2021. ([http://arxiv.org/abs/1907.01309 preprint])
+. Rihab Abdul Razak, Sukumar Srikant, Hoam Chung, /Decentralized and Adaptive Control of Multiple Nonholonomic Robots for Sensing Coverage/, *International Journal of Robust and Nonlinear Control*, Vol.28, 6, 2636-2650, 2018.
+. Rihab Abdulrazak, Mani Bhushan, Madhu Belur, Akhilanand P. Tiwari, Mahendra G. Kelkar, Mahitosh Pramanik, /Clustering of Self Powered Neutron Detectors: Combining Prompt and Slow Dynamics/, *IEEE Transcations on Nuclear Science*, Vol.61, 6, 3635-3643, Dec. 2014.
+. Selvaraj Karikalan, Madhu N. Belur, Chirayu D. Athalye, Rihab Abdul Razak, /Uncontrollable dissipative systems: Observability and embeddability/, *International Journal of Control*, Vol.87, 1, 101-119, Jan 2014.
+. Rihab Abdul Razak, Mani Bhushan, Madhu Belur, Akhilanand P. Tiwari, Mahendra G. Kelkar, Mahitosh Pramanik, /Data reconciliation and gross error analysis of self powered neutron detectors: Comparison of PCA and IPCA based models/, *International Journal of Advances in Engineering Sciences and Applied Mathematics*, Vol.4, 1-2, 91-115, June 2012.
+
+= Conference Papers
+. Pallavi Sinha, Rihab Abdul Razak, Sukumar Srikant, /Synchronization of Coupled Measurements: Euler Lagrange Systems/, *ISCS, SICE 2020*, Kitakyushu, Japan, Mar. 2020.
+. Rihab Abdul Razak, Sukumar Srikant, Hoam Chung, /Estimating Scalar Fields with Mobile Sensor Networks/, *Proceedings of the 6th Indian Control Conference (ICC)*, IIT Hyderabad, India, Dec. 2019.
+. Rihab Abdul Razak, Sukumar Srikant, Hoam Chung, /Distributed Coverage Control of Mobile Sensors: Generalized Approach using Distance Functions/, *Proceedings of the 57th IEEE Conference on Decision and Control (CDC)*, Miami Beach (FL), USA, Dec. 2018.
+. Rihab Abdul Razak, Sukumar Srikant, Hoam Chung, /Decentralized Adaptive Coverage Control of Nonholonomic Mobile Robots/, *Proceedings of the 10th IFAC Symposium on Nonlinear Control Systems (NOLCOS)*, Monterey (CA), USA, Aug. 2016.
+
+= Posters
+. Nishant Agrawal, Paul Edwards, Ambuj Pandey, Michael Klemm, Ravi Ojha, Rihab Abdul Razak, /Performance Evaluation of OpenFOAM with MPI-3 RMA Routines on Intel® Xeon® Processors and Intel® Xeon Phi™ Coprocessors/, *The 22nd European MPI User's Group Meeting*, Sept. 2015.
+
+= Others
+. Nishant Agrawal, R. Narayanan, Manoj Nambiar, Rihab Abdul Razak, Ambuj Pandey, Shyamsundar Das, /Parallel Implementation of PK-PD Parameter Estimation on GPU using Grid Search Method/, presented at *GPU Technology Conference*, March 2014, San Jose, USA.
+
+= Other pages
+[https://www.researchgate.net/profile/Rihab-Abdulrazak Researchgate page]\n
+[https://scholar.google.com/citations?user=LTbfZTUAAAAJ&hl=en Google Scholar]

@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU1}{index.html}
+== Rihab Abdul Razak
+
+~~~
+{}{img_left}{rihab.png}{alt text}{200px}{200px}{}
+~~~
+
+= Current Position
+Data Science Researcher,\n
+[https://www.shell.com/ Shell Technology Centre Bangalore].\n
+
+= Interests
+I have interests in the broad areas of Systems and Control 
+theory. During PhD, I worked on applications of Adaptive 
+control and Distributed control to multi-agent systems. 
+Currently I work on data-driven\/learning-based methods for 
+Modelling\/Identification, State estimation and Optimization 
+of process systems. I also have some experience in programming 
+for High Performance Computing and Parallel Computing systems.
+
+= Contact
+Email: [tarihab@gmail.com]\n
+[https://www.linkedin.com/in/tarihab/ LinkedIn page]\n
+[https://www.researchgate.net/profile/Rihab-Abdulrazak Researchgate page]\n
+[https://scholar.google.com/citations?user=LTbfZTUAAAAJ&hl=en Google Scholar]

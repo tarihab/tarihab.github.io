@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU1}{links.html}
+== Rihab Abdul Razak \/ Links
+
+= Some links to learning resources
+~~~
+{}
+[https://gregstanleyandassociates.com/whitepapers/whitepapers.htm]\n 
+Resource on Fault diagnosis, Filtering, Data Reconciliation etc.\n
+~~~
+
+~~~
+{}
+[http://mocha-java.uccs.edu/]\n 
+Lectures on Control theory, System Identification, Battery management etc.\n
+~~~
+
+~~~
+{}
+[https://people.richland.edu/james/lecture/m170/]\n 
+Notes on Statistics.\n
+~~~
+
+~~~
+{}
+[https://deep-learning-drizzle.github.io/index.html]\n 
+Machine learning, Optimization, Deep learning etc.\n
+~~~
